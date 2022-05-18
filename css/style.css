@@ -744,7 +744,26 @@ margin-top: -30px;
 		font-weight: 100;
 		line-height: 20px;
 	}
-
+	.circle1{
+		width: 100px;
+		height: 100px;
+		background-color: #d5a3cb;
+		border-radius: 50%;
+		position: absolute;
+		right: 20px;
+		bottom: -30px;
+	}
+	
+	
+	.circle2{
+		width: 100px;
+		height: 100px;
+		background-color: #e1bcd9;
+		border-radius: 50%;
+		position: absolute;
+		right: -35px;
+		bottom: -10px;
+	}
 
 }
 
