@@ -1089,7 +1089,12 @@ Blog page
 	border-radius: 50px;
 	box-shadow: 0 5px 20px rgba(140, 140, 140, 0.558);
 }
-
+.blog-content2{
+	background-color: #ead9e6;
+}
+.blog-content3{
+	background-color: #d9d9ea;
+}
 .blog-content p{
 	font-family: 'JSDongkang-Regular';
 	font-size:16px;
