@@ -27,7 +27,11 @@
     font-weight: normal;
     font-style: normal;
 }
-
+.web_style{
+	font-size: .4em;
+	font-weight: 500;
+	margin-left: 5px;
+}
 ul{list-style-type:none;}
 html,
 body {
@@ -632,10 +636,7 @@ body.push-side #ascrail2000-hr {
 	font-size: 40px;
 	margin-bottom: 0;
 }
-span{
-	color: #c189bc;
-	padding-left: 100px;
-}
+
 
 .uxui{
 	float: right;
